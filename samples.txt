@@ -1,0 +1,9 @@
+sample	folder
+162	Sample_162_quant
+169	Sample_169_quant
+170	Sample_170_quant
+176	Sample_176_quant
+177	Sample_177_quant
+178	Sample_178_quant
+179	Sample_179_quant
+198	Sample_198_quant
