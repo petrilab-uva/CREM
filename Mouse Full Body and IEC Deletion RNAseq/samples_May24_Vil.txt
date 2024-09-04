@@ -1,0 +1,11 @@
+sample	folder
+247	Sample_247_quant
+248	Sample_248_quant
+336	Sample_336_quant
+337	Sample_337_quant
+392	Sample_392_quant
+393	Sample_393_quant
+473	Sample_473_quant
+474	Sample_474_quant
+487	Sample_487_quant
+488	Sample_488_quant
